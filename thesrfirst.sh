@@ -13,3 +13,4 @@ echo "Lets start the Scripting Foundation"; #display message inquotes
 
 echo -e "Welcome to BITS Pilani Course\nLets start the Scripting Foundation"; # Display both messages in one liner
 echo -e "This is first GIT project"
+echo -e "Changes through Git bash"
