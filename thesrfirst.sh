@@ -6,7 +6,7 @@
 # Also we will demonstrate New line function during this demo
 # The script will display two lines
 # Welcome to BITS Pilani Course & Lets start the Scripting Foundation
-#
+# Testing for pull request
 ################################################################################################################
 echo "Welcome to BITS PilaniCourse"; # display message inquotes
 echo "Lets start the Scripting Foundation"; #display message inquotes
